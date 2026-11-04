@@ -4,6 +4,12 @@ All notable changes to this project are documented here. Format follows [Keep a 
 
 ## [Unreleased]
 
+## [0.11.2] - 2026-11-03
+
+### Changed
+
+- Bump dependencies: DJL huggingface tokenizers 0.40.0.
+
 ## [0.11.1] - 2026-10-04
 
 ### Changed
